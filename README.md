@@ -1,3 +1,4 @@
-#This is my Zoamto Landing Page Clone
+# This is my Zoamto Landing Page Clone
 
-#done with first commit
+## Done with first commit.
+Edited in GIT.
